@@ -1,6 +1,6 @@
 package buildTree;
 
-import node.TreeNode;
+import common.TreeNode;
 
 import java.util.HashMap;
 

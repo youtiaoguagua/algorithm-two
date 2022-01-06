@@ -1,11 +1,8 @@
 package printListReversingly;
 
-import node.ListNode;
+import common.ListNode;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
 /**
  * @author 王祥飞
  * @time 2021/12/7 5:49 PM

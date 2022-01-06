@@ -1,6 +1,6 @@
 package inorderSuccessor;
 
-import node.TreeNode;
+import common.TreeNode;
 
 /**
  * @author 王祥飞

@@ -1,6 +1,6 @@
 package deleteDuplication;
 
-import node.ListNode;
+import common.ListNode;
 
 /**
  * @author 王祥飞
