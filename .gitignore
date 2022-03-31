@@ -101,3 +101,5 @@ algorithm-two.iml
 
 /algorithm.iml
 target
+
+src/**/doc/content
